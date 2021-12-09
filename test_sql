@@ -1,6 +1,6 @@
 SELECT  * 
 FROM `ga360-173318.editorial_analytics.article_table_adhoc_mark2` 
-WHERE clean_url = "/"
+WHERE clean_url = "/" AND test = "git"
 
 
-## test git hub integration
+## test git hub integration##
